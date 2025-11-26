@@ -1,0 +1,11 @@
+{
+    "Environment": "Production",
+    "Address": "123 Main St, Anytown, USA",
+    "City": "Anytown",
+    "State": "CA",
+    "ZipCode": "12345",
+    "GPS": {
+        "Latitude": 34.0522,
+        "Longitude": -118.2437
+    }
+}
